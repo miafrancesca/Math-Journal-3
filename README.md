@@ -1,6 +1,8 @@
 # Math-Journal-3
 Chemical Equations
 
+EDIT 11/5: Fixed small bugs that prevented execution for edge cases
+
 Reflections:
 
 This program is still a work in progress. When I began, I didn't realize how many additional considerations and obstacles would pop up. The goal of this program is to balance chemical equations. It relates to math because it involves systems of equations to equate the coefficients of the molecules. Program is still a work in progress, but contains algorithms to load Equation objects from user input, can decipher if the sides of the equation are balanced, and loads the linear system of equations, for any size of equation. 
